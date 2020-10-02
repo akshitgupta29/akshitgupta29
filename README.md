@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <hr>
 
 <!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/akshit_29">reach out</a> and introduce yourself. </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people from around the world, so feel free to reach out on <a href="https://twitter.com/akshit_29">twitter</a> or <a href="https://https://www.linkedin.com/in/akshitgupta29/">linkedin</a> and introduce yourself. </em>
 
 <hr>
 <br>
