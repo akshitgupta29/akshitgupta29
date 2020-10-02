@@ -40,11 +40,13 @@ Here are some ideas to get you started:
 <!-- My GitHub stats with buefy theme ❤️ -->
 
 <a href="https://github.com/akshitgupta29/akshitgupta29">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshitgupta29&show_icons=true&theme=buefy&count_private=true" alt="Akshit's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshitgupta29&show_icons=true&theme=buefy&count_private=true" alt="Akshit's GitHub Stats" height=205/>
 </a>
 
+
+
 <a href="https://github.com/akshitgupta29/akshitgupta29">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitgupta29&hide=css,html&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitgupta29&hide=css,html&show_icons=true&theme=buefy&count_private=true" style="vertical-align:middle;margin:0px 30px" />
 </a>
 
 
