@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
+<br>
 
 ---
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Statistics
 <br>
 
 <!-- My GitHub stats with buefy theme ❤️ -->
@@ -43,14 +43,13 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshitgupta29&show_icons=true&theme=buefy&count_private=true" alt="Akshit's GitHub Stats" height=205/>
 </a>
 
-
-
 <a href="https://github.com/akshitgupta29/akshitgupta29">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitgupta29&hide=css,html&show_icons=true&theme=buefy&count_private=true" style="vertical-align:middle;margin:0px 30px" />
 </a>
 
+<br>
 
----
+<hr>
 
 <!-- Feel free to reach out and introduce yourself :D-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/akshit_29">reach out</a> and introduce yourself. </em>
