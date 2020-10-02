@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!! 👋
 
 <!--
 **akshitgupta29/akshitgupta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-<hr>
 
 <strong>Statistics</strong>
 <br>
