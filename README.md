@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ## &#x1f4c8; GitHub Statistics
-<br>
+
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 
@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people from around the world, so feel free to reach out on <a href="https://twitter.com/akshit_29">twitter</a> or <a href="https://https://www.linkedin.com/in/akshitgupta29/">linkedin</a> and introduce yourself. </em>
 
 <hr>
-<br>
+
 
 <h2 align="center"> <b>Made with <span style="color: #e25555;">&hearts;</span> by <a href="https://github.com/akshitgupta29"> Akshit Gupta </a> </h2>
