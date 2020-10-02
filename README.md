@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Akshit's github stats](https://github-readme-stats.vercel.app/api?username=akshitgupta29)
+---
+
+<!-- My GitHub stats with buefy theme ❤️ -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=akshitgupta29&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitgupta29&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 
 ---
 
