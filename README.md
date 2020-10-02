@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, folks! <img src="https://raw.githubusercontent.com/akshitgupta29/akshitgupta29/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/akshitgupta29/akshitgupta29/main/wave.gif" width="30px">
 
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
