@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Akshit's github stats](https://github-readme-stats.vercel.app/api?username=akshitgupta29)
+
+---
+
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/akshit_29">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
