@@ -15,22 +15,46 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hello, World! <img src="https://raw.githubusercontent.com/akshitgupta29/akshitgupta29/main/wave.gif" width="30px"> </h2>
+<h1> Hello, World! <img src="https://raw.githubusercontent.com/akshitgupta29/akshitgupta29/main/wave.gif" width="30px"> </h1>
 
 <hr>
 
+## I am Akshit Gupta.
+
+<p> I am currently working as a Software Developer and pursuing M.Tech from BITS, Pilani in Data Science and Engineering. </p>
+
 <img align="right" alt="GIF" height="150px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-[![Twitter Badge](https://img.shields.io/badge/Akshit_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akshit_29)](https://twitter.com/akshit_29) 
-[![Linkedin Badge](https://img.shields.io/badge/-_akshitgupta29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitgupta29/)](https://www.linkedin.com/in/akshitgupta29/) 
-[![Gmail Badge](https://img.shields.io/badge/-_akshitgupta29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshitgupta29@gmail.com)](mailto:akshitgupta29@gmail.com)
+🔭 I’m currently working on:
+  - Python 
+  - Java 
+  - SQL
+  - Linux 
+  - Hadoop Ecosystem
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+🌱 I’m currently learning:
+  - Machine Learning
+  - Deep Learning 
+  - Django
+
+
+
+👯 I’m looking to collaborate on:
+  - Python Automations
+  - Machine Learning
+
+💬 Ask me about:
+  - Always up for a conversation.
+
+📫 How to reach me:
+
+  [![Linkedin Badge](https://img.shields.io/badge/-_akshitgupta29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitgupta29/)](https://www.linkedin.com/in/akshitgupta29/) 
+
+  [![Twitter Badge](https://img.shields.io/badge/Akshit_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akshit_29)](https://twitter.com/akshit_29) 
+
+  [![Gmail Badge](https://img.shields.io/badge/-_akshitgupta29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshitgupta29@gmail.com)](mailto:akshitgupta29@gmail.com)
+
+
 
 ---
 
