@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   - Machine Learning
 
 💬 Ask me about:
-  - Always up for a conversation.
+  - Anything, always up for a conversation.
 
 📫 How to reach me:
 
