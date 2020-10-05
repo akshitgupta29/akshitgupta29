@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I am Akshit Gupta.
 
-<p> I am currently working as a Software Developer and pursuing M.Tech from BITS, Pilani in Data Science and Engineering. </p>
+<p> Currently working as a Software Developer and pursuing M.Tech from BITS, Pilani in Data Science and Engineering. </p>
 
 <img align="right" alt="GIF" height="150px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
